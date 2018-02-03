@@ -1,0 +1,49 @@
+.is-grouped {
+  display: inline-block;
+}
+
+.keys {
+  width: 50px;
+  text-align: center;
+}
+
+.container {
+  margin-left: 15px;
+}
+
+.selected {
+  background-color: blue;
+  color: white;
+}
+
+#first-row {
+margin-left: 50px;
+}
+
+#second-row {
+
+}
+
+#third-row {
+  margin-left: 50px;
+}
+
+#fourth-row {
+  margin-left: 0;
+}
+
+#fifth-row {
+  margin-left: 25px;
+}
+
+#space-key {
+  width: 550px;
+}
+
+#shift-key {
+  width: 100px;
+}
+
+#textbox {
+  margin-left: auto;
+}
